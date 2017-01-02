@@ -2,7 +2,6 @@
 
 /**
  * Expand or read from a horizontal scaled set
- * @author Kastner Mario <kastnermario@gmail.com>
  */
 class HorizontalSet
 {
